@@ -1,7 +1,13 @@
 # Epam interview
-Iteviewer: Vidhi Gupta
+**Date**: 23-April-2025
 
-total time: 50 mins
+**Round**: 1
+
+**Result**: Awaited
+
+**Interviewer**: Vidhi Gupta
+
+**Total Time**: 50 mins
 
 1. Two Sum – Pair with given Sum. return the index of the pair
 
