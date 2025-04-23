@@ -5,9 +5,10 @@ total time: 50 mins
 
 1. Two Sum – Pair with given Sum. return the index of the pair
 
-**Example: Question1TwoSumPairWithGivenSum**
+    **Example: Question1TwoSumPairWithGivenSum**
 
 2. There's a person class with Name, age and List< Address>. Address class has city. Find all the distinct city where employee age is >= 18.
+   **Example: Question2Java8FlatMap**
 
 3. Null values in TreeSet
 
