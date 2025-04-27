@@ -3,7 +3,7 @@
 
 **Round**: 1
 
-**Result**: Awaited
+**Result**: Selected
 
 **Interviewer**: Vidhi Gupta
 
@@ -59,3 +59,81 @@
 23. How to write Junit for private method
 
 24. @Mock vs @Spy in Junit
+
+**Date**: 27-April-2025
+
+**Round**: 2
+
+**Result**: Awaited
+
+**Interviewer**: Gaurav
+
+**Total Time**: 90 mins
+
+1. Find first Non-Repeating word from the statement using Java8: 
+
+**Java is fun and Java is powerful** Output: fun . **Solution**: Question3FirstUniqueWord
+
+2. KISS, DRY and SOLID. What do you know about this principle?
+
+3. How to you recover Database from failure?
+ 
+4. User enters username and password from UI. explain the entire flow of Security, from frontend to backend? Do you know about keycloak?
+
+5. @Qualifier example in SpringBoot
+
+6. Have you used NoSql database?
+
+7. What design patterns you have used in Microservice? Explain Saga design pattern in detail?
+
+8. How to avoid duplicate message processing in Kafka consumer?
+
+9. Assume 100k messages are getting produced daily? Your current messaging queue is processing only 60-70k messages and there's a huge backlog? How will you improve the performance?
+
+11. One error occurred in the UI and customer shares the screenshot. How will you trace the error where you have 12 microservices running in parallel?
+
+12. Routings in Angular
+
+13. Dependency Injection in Angular
+
+14. Reactive forms in Angular
+
+15. Will T1 and T2 intersect
+class Myclass{
+
+syncrhonized m1(){
+
+}
+
+syncrhonized m2(){
+}
+
+t1 -> m1
+
+t2 -> m2
+
+
+16. How exception is handled in Java?
+
+17. What would be output of below program
+
+class Customer{
+String name;
+int age;
+
+}
+
+psvm(){
+
+HashSet<Customer> hs = new HashSet<>();
+
+hs.add(new Customer("Laxmi", 35));
+
+hs.add(new Customer("Kapilan", 36));
+
+System.out.println(hs.size()); //output 2
+
+}
+
+18. write a SQL query to print country name with count where customers are equal or greater than 10000 country
+
